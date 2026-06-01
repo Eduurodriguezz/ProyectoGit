@@ -6,5 +6,6 @@ public class Main {
         System.out.println("5 + 3 = " + calc.sumar(5, 3));
         System.out.println("5 - 3 = " + calc.restar(5, 3));
         System.out.println("5 * 3 = " + calc.multiplicar(5, 3));
+        System.out.println("10 / 2 = " + calc.dividir(10, 2));
     }
 }
