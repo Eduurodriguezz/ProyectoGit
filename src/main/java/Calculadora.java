@@ -14,4 +14,4 @@ public int multiplicar(int a, int b) {
 public double dividir(int a, int b) {
     if (b == 0) throw new ArithmeticException("Division por cero");
     return (double) a / b;
-}
+}// Prueba de difftool externa con WinMerge
