@@ -1,0 +1,22 @@
+# Compilados Java
+*.class
+*.jar
+*.war
+
+# Carpetas de build
+bin/
+build/
+target/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
